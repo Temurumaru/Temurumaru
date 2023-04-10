@@ -1,10 +1,6 @@
 ### Hi there 👋
 
-<hr>
-
 <h2 align="center">Tulenov Temur</h2>
-
-<hr>
 
 [![codewars](https://www.codewars.com/users/テムルマル%20AI/badges/large)](https://www.codewars.com/users/テムルマル%20AI)   
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Temurumaru&theme=github_dark)

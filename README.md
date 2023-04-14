@@ -25,19 +25,22 @@
 </div>
 </div>
  <script>
-  const circle = document.getElementById('circle_emoji');
-const crabEmoji = '🦀';
+const circle = document.getElementById('circle_emoji');
+const crabImg = new Image();
+crabImg.src = 'path/to/crab-image.png';
 
 let rotation = 0;
 
 function rotateCrab() {
-  rotation += 10;
+  rotation += 0.1;
   circle.style.transform = `rotate(${rotation}deg)`;
-  circle.innerText = crabEmoji;
   requestAnimationFrame(rotateCrab);
 }
 
 rotateCrab();
+
+circle.appendChild(crabImg);
+
 
  </script>
 </body>

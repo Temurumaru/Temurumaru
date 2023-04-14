@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h5 align="center"><img src = "https://avatars.githubusercontent.com/u/86427523?v=4" style="border-radius:50%; width: 15rem;"></h5>
+<h5 align="center"><img src = "https://avatars.githubusercontent.com/u/86427523?v=4" style="border-radius:50%; width: 12.5rem;"></h5>
 
 <h2 style="margin-top:0;" align="center">Tulenov Temur</h2>
 
